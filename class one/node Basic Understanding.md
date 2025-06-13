@@ -12,20 +12,20 @@ Unlike traditional server technologies (like PHP or Java) that create a new thre
 
 **Relationship Between Node.js and the V8 Engine:**
 
-**V8** is Google’s fast JavaScript engine (built in C++) that powers Chrome. It compiles JavaScript into machine code for high performance.
+- **V8** is Google’s fast JavaScript engine (built in C++) that powers Chrome. It compiles JavaScript into machine code for high performance.
 
-**Node.js** is a runtime that uses V8 to run JavaScript outside the browser, adding features like file access and networking.
+- **Node.js** is a runtime that uses V8 to run JavaScript outside the browser, adding features like file access and networking.
 
-**The Relationship:** V8 executes the code; Node.js builds on top of it to enable server-side JavaScript development.
+- **The Relationship:** V8 executes the code; Node.js builds on top of it to enable server-side JavaScript development.
 
 **3. What are the key features that make Node.js suitable for modern web applications?**
 
-**Non-blocking I/O:** Handles multiple requests efficiently using an event-driven model—perfect for real-time apps like chats and live dashboards.
+- **Non-blocking I/O:** Handles multiple requests efficiently using an event-driven model—perfect for real-time apps like chats and live dashboards.
 
-**JavaScript Everywhere:** Enables full-stack development with one language, simplifying code sharing and team workflows.
+- **JavaScript Everywhere:** Enables full-stack development with one language, simplifying code sharing and team workflows.
 
-**High Performance:** Powered by Chrome’s V8 engine for fast execution.
+- **High Performance:** Powered by Chrome’s V8 engine for fast execution.
 
-**Vast Ecosystem:** NPM offers thousands of ready-to-use packages to speed up development.
+- **Vast Ecosystem:** NPM offers thousands of ready-to-use packages to speed up development.
 
-**Scalable Architecture:** Ideal for building scalable systems and microservices.
+- **Scalable Architecture:** Ideal for building scalable systems and microservices.
